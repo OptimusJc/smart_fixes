@@ -1,0 +1,3 @@
+HOW TO FIX GRUB MISSING ONE OS PROBLEM AFTER DUALBOOTING LINUX
+sudo os-prober #prob for another os
+grub-update #update the grub with the found os
